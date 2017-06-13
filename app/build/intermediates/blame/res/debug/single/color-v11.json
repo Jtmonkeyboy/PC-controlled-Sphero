@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

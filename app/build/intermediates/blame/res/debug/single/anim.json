@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/anim/abc_popup_enter.xml"
+    }
+]

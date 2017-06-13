@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/swapnil/Robotics/orbotix-Sphero-Android-SDK-c7b1529/samples/ButtonDrive2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/swapnil/.android/build-cache/b2bb330f2f7fe546c99b6788ae5c8c1814c86805/output/res/color-v23/abc_tint_default.xml"
+    }
+]
